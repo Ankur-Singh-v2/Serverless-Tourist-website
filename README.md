@@ -1,4 +1,4 @@
-Serverless Web Application
+**Serverless Web Application**
 This is a serverless web application hosted on AWS using the following services:
 
 Amazon S3
